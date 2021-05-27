@@ -1,0 +1,43 @@
+* {
+    line-height: 1.5;
+}
+
+body {
+    font-family: 'Londrina Solid', cursive; ;
+}
+
+header h1 {
+    font-size: 56px;
+    text-align: center;
+    color: black;
+}
+
+header span {
+    font-size: 24px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    color: black;
+}
+
+.container {
+    background: rgb(255,33,215);
+    background: linear-gradient(142deg, rgba(255,33,215,1) 0%, rgba(0,217,255,1) 100%);
+}
+
+.container h2, div h3 {
+    font-size: 24px;
+    color:white;
+    text-align: center;
+}
+
+.container p, div span {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    display: block;
+}
+
+button {
+  margin: 0 auto;
+}
